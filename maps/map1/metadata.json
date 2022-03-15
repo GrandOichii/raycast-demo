@@ -1,0 +1,27 @@
+{
+    "speed": 1,
+    "turnspeed": 10,
+    "spawn": [1, 1],
+    "tiles": {
+        "#": {
+            "passable": false,
+            "colors": [234, 235, 236, 237, 238, 239, 240, 241, 242, 243]
+        },
+        ".": {
+            "passable": true,
+            "colors": [233]
+        },
+        "G": {
+            "passable": false,
+            "colors": [22, 28, 34, 40, 46]
+        },
+        "R": {
+            "passable": false,
+            "colors": [52, 88, 124, 160, 196]
+        },
+        "B": {
+            "passable": false,
+            "colors": [17, 18, 19, 20, 21]
+        }
+    }
+}
